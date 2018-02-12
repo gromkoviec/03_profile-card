@@ -28,8 +28,7 @@ p
 /* Card container stup */
 .card
 { 
-  height: 22em;
-  width: 35em;
+   width: 35em;
   margin: 2em auto;
   background-color: red;
   border: 0.2em solid black;
